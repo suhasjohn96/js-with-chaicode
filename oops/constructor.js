@@ -56,5 +56,5 @@ let cheeseburger= new Burger("Cheese burger");
 let dog = new Animal("Dog");
 console.log(dog.sound());
 
-let cat = new Animal("cat");
+let cat = new Animal("cat"); 
 console.log(cat.sound());
